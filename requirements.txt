@@ -1,1 +1,7 @@
-python -m ipykernel install --user --name=myvenv --display-name "Python (myvenv)"
+langchain
+langchain-core
+langchain-community
+openai
+python-dotenv
+ipykernel
+langchain-openai

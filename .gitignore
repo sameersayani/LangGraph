@@ -1,0 +1,5 @@
+/__pycache__/**/*
+venv/**/*
+venv/Lib/site-packages/**/*
+logging.txt
+Meeting_Change_Notification_Sameer.txt
