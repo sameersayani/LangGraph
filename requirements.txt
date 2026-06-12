@@ -5,3 +5,6 @@ openai
 python-dotenv
 ipykernel
 langchain-openai
+langchain-chroma
+chromadb
+pypdf
